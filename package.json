@@ -14,6 +14,7 @@
     "camelcase-keys-deep": "^0.1.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-modified-state": "^1.0.8",
     "react-scripts": "5.0.1",
     "typescript": "^4.7.3",
     "web-vitals": "^2.1.4"
